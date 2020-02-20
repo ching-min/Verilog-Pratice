@@ -1,0 +1,13 @@
+NET "LED<0>"  LOC = "F12" ;
+NET "LED<1>"  LOC = "E12" ;
+NET "LED<2>"  LOC = "E11" ;
+NET "LED<3>"  LOC = "F11" ;
+NET "LED<4>"  LOC = "C11" ;
+NET "LED<5>"  LOC = "D11" ;
+NET "LED<6>"  LOC = "E9" ;
+NET "LED<7>"  LOC = "F9" ;
+NET "SW<0>"  LOC = "L13" ;
+NET "SW<1>"  LOC = "L14" ;
+NET "SW<2>"  LOC = "H18" ;
+NET "SW<3>"  LOC = "N17" ;
+NET "CLK"    LOC = "C9" ;
